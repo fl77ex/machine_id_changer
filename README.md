@@ -1,1 +1,1 @@
-curl -sSL https://github.com/fl77ex/machine_id_changer/raw/master/machine_id_changer.sh | bash
+curl -sSL https://raw.githubusercontent.com/fl77ex/machine_id_changer/refs/heads/main/machine_id_changer.sh | bash
