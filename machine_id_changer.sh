@@ -3,6 +3,7 @@
 # Обновление системы
 echo "Обновление системы..."
 sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y && sudo apt autoremove -y
+sudo apt install nano
 
 # Замена machine-id
 echo "Изменение machine-id..."
